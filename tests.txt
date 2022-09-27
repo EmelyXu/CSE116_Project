@@ -1,0 +1,35 @@
+Ace Up Homecell Test
+
+  HomeCellTestInitial() : Homecell pile in Ace's Up initially holds 0 card, therefore the size of the list will be initially 0
+
+  HomeCellTestAdd() : Tests that when sample card is added into homecell,  the homecell pile correctly determines it as legal to be added
+
+  HomeCellTestRemove() : Tests that homecell pile in Ace's Up correctly returns that it is false to remove top card
+
+  HomeCellTestTopCard() : Tests that when legal sample card is added to homecell pile, it increases its number of card and result in that card being the new top card of the pile
+
+Ace Up Stock Test
+
+  initialHolds() : Ace's Up stock pile initially holds 48 cards
+
+  addingCard(): Tests that adding cards to stock is illegal
+
+  removeCardValid(): Tests that removing cards from stock pile is illegal when stock pile is not empty
+
+  removeCardInvalid() : Tests that removing cards from stock pile is illegal when stock pile is empty
+
+  topCard() : Tests that cards are correctly removed from stock pile when add cards to tableau pile is called
+
+Ace Up Tableau Test
+
+  Tableauinitial() : Tests that tableau piles in Ace's Up initially holds 1 card
+
+  TableauCanAdd() : Tests that tableau pile correctly determines if adding a specific card is legal or illegal
+
+  TableauRemovable() : Tests that tableau pile correctly determins if removing a specific card is legal or illegal
+
+  TopcardAfterAdd() : Tests that the last card being added to the tableau pile is the new top card of that pile
+
+  SizeAfteradd() : Tests that the size of the tableau pile increases after card is being added
+
+  SizeAndTopcardAfterRemove() : Tests that the size of the tableau pile decreases after card is being removed and the card following the card being removed becomes the new top card
