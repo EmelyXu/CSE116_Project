@@ -1,0 +1,169 @@
+Meeting Minutes for _______________:
+
+Meeting Attendance:
+  * 
+  *
+  *
+
+Tasks completed since last meeting:
+  *
+  *
+
+Tasks started, but not completed, since last meeting:
+  *
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *
+  *
+
+Schedule for the next week's set of pair programming meetings:
+  *
+  *
+
+Sep. 15 - Meeting 50 Minutes for setup:
+
+Meeting Attendance:
+  * Xinlin Zhu 
+  * Elder Mejia
+  * Jimmy Rong
+  * Emely Xu
+  * Partrick Chung(surgery)
+
+Tasks completed since last meeting:
+  * /
+
+Tasks started, but not completed, since last meeting:
+  * fixed the problem about creating the group.
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  *
+  *
+
+Schedule for the next week's set of pair programming meetings:
+  * next meeting at Sep.19
+  *
+  
+Sep. 19 -  Meeting 30 Minutes for start;
+
+Meeting Attendance:
+  * Xinlin Zhu 
+  * Elder Mejia
+  * Jimmy Rong
+  * Emely Xu
+  * Partrick Chung(having class)
+
+Tasks completed since last meeting:
+  * /
+  *
+
+Tasks started, but not completed, since last meeting:
+  * Spread the work
+  * partice how to pull and push
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  * Emely and Xinlin - class Desk, create 52 cards. 
+  * Partick - Defines class representing a Freecell game. 
+  * Elder and Jimmy - Defines class representing a Baker's Dozen game. 
+
+Schedule for the next week's set of pair programming meetings:
+  * September 27, 5PM
+  * Split parts and workload for Test units
+  
+Sep. 27 - Meeting 30 Minutes for start;
+
+Meeting Attendance:
+  * Emely Xu
+  * Jimmy Rong
+  * Patrick Chung
+  * Elder Mejia
+  * Xinlin Zhu
+  
+Tasks completed since last meeting:
+  * Completed classes assigned last week
+  
+Tasks to be worked on (and by which team members) for the next meeting:
+  * Emely and Xinlin - Homecell Pile test
+  * Patrick and Jimmy - Tableau Pile test
+  * Elder - Freecell Pile test
+
+Schedule for the next week's set of pair programming meetings:
+  * October 4, 5PM
+  *
+  
+September 28 - Meeting Minutes for :15 mins
+
+Meeting Attendance:
+  * Xinlin Zhu
+  * Emely Xu
+  * Jimmy Rong
+  * Patrick Chung
+
+Tasks completed since last meeting:
+  *
+  *
+
+Tasks started, but not completed, since last meeting:
+  * Test Units 
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  * 
+
+Schedule for the next week's set of pair programming meetings:
+  * October 2 - submission for phase 1
+  *
+
+
+Oct 7 - Meeting Minutes for : 2 hours
+
+Meeting Attendance:
+  * Elder Mejia
+  * Xinlin Zhu
+  * Emely Xu
+  * Jimmy Rong
+  * Patrick Chung
+
+Tasks completed since last meeting:
+  * Submission for phase1
+  * Plan for phase 2
+  * Preparation for presentation
+
+Tasks started, but not completed, since last meeting:
+  * Start working on phase2
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  * GUI phase2
+  *
+
+Schedule for the next week's set of pair programming meetings:
+  * October 16 : Continue work on phase2
+  * 
+  
+ Oct 16 - Meeting Minutes for:
+
+Meeting Attendance:
+  * Elder Mejia
+  * Xinlin Zhu
+  * Emely Xu
+  * Jimmy Rong
+  * Patrick Chung
+
+Tasks completed since last meeting:
+  * Presentation for recitation presentation
+  * Worked on part of GUI for phase2
+
+Tasks started, but not completed, since last meeting:
+  * Phase2
+  *
+
+Tasks to be worked on (and by which team members) for the next meeting:
+  * Continue work on phase2 
+  *
+
+Schedule for the next week's set of pair programming meetings:
+  * October 28: complete phase2
+  *
+
